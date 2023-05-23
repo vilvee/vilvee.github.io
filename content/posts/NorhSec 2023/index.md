@@ -42,7 +42,7 @@ The challenges presented at the event were diverse and well-crafted, encompassin
 
 For beginners like us, the organizers had thoughtfully designed a beginner track. This track introduced us to the basics of CTFs and included challenges on HTML knowledge, local file inclusion, file upload bypass, SQL injection, SSRF, and redirection exploit. To our delight, we managed to capture all the flags in this track!
 
-The event also featured unconventional challenges, including cracking a physical safe and deciphering a digital clock, 3D printed and featuring the same ESP32, located on our tables. The sheer variety of challenges kept us on our toes, constantly questioning if there were hidden flags in the most unexpected places. We even started wondering if we could find flags under our chairs or inside the lcd displays! I am still convinced that the barcode on our shirts was a flag, but we never managed to find it.
+The event also featured unconventional challenges, including jackpotting a physical ATM and deciphering a digital clock, 3D printed and featuring the same ESP32, located on our tables. The sheer variety of challenges kept us on our toes, constantly questioning if there were hidden flags in the most unexpected places. We even started wondering if we could find flags under our chairs or inside the lcd displays! I am still convinced that the barcode on our shirts was a flag, but we never managed to find it.
 
 My favorite track this year must have been the **Dream Stream Server**. Thanks to a hint from our alumni, I was pushed in the right direction - Autopsy software. After spending over an hour figuring it out and almost giving up, I manged to get inside the provided files and find several flags! 
 
