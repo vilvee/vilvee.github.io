@@ -73,7 +73,7 @@ Friday night started strong with a wide selection of very unhealthy, but much ne
 
 Saturday morning started very nicely with a wide selection of pastries, fruits, and coffee. 
 
-Sunday lunch, however, was a disaster. The food was very limited, and there was not enough for everyone. Whoever managed to get any, had one of two options : two hot dogs or a vegetarian falafel pita and garlic potatoes. The organizer brought some fries too, I an suspecting to compliment the hot dogs, but due to the limited quantity, we managed to get only a small baggie per team.
+Sunday lunch, however, was a bit of a mess up. The food was very limited, and there was not enough for everyone. Whoever managed to get any, had one of two options : two hot dogs or a vegetarian falafel pita and garlic potatoes. The organizer brought some fries too, I an suspecting to compliment the hot dogs, but due to the limited quantity, we managed to get only a small baggie per team.
 
 To make up for lunch, the organizers brought in some pizza for dinner. And they made up alright. If it is worth doing, it's worth overdoing, right? I think there was enough pizza to feed a small army. We wondered by what supernatural force were all these boxes delivered to the venue.
 
