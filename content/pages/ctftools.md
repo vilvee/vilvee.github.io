@@ -23,5 +23,6 @@ date: '2023-05-22'
 
 ## Useful Websites
 
+- **[RingerZer0](https://ringzer0ctf.com/)** - RingZer0 Team's online CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges. Register and get a flag for every challenge.
 - **[MontreHack](https://www.montrehack.ca/)** - Montrehack is a monthly meetup in Montreal for computer security enthusiasts.
 - **[NorthSec Write-Ups](https://nsec.io/competition-write-ups/)** - NorthSec is the biggest applied security event in Canada, aimed at raising the knowledge and technical expertise of professionals and students alike. We are determined to create a high quality security forum composed of a two day single track conference by the brightest in their field of expertise, followed by an intense 48 hour on-site CTF contest. We are bringing this event to you because we believe knowledge is best shared through experience.
