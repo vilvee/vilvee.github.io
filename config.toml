@@ -69,7 +69,7 @@ disqusShortname = ''
 [params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "ByteMe: Veroniks's Coding After Dark"
+  intro = "ByteMe: Veronika's Coding After Dark"
   catchphrase = "Turning coffee into code, one night at a time."
   name = "Veronika V."
   description = "Welcome to the world of Veronika, a dedicated computer science student with a knack for solving complex problems. CTF enthusiast and an ardent coder. Welcome to her world of 'Coding After Dark'  where she brews the perfect blend of code and creativity, one byte at a time."
