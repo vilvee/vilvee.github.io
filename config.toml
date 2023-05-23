@@ -34,7 +34,6 @@ disqusShortname = ''
     name = 'Home'
     url = '/'
     weight = 10
-
   [[menu.main]]
     pageRef="posts"
     name = 'Posts'
