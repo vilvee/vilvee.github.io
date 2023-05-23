@@ -20,3 +20,6 @@ date: '2023-05-23'
 
 [UI Beginner Notes](https://maujac.github.io/2W6-UI/#/) - Notes for 420-2W6 by Mauricio Buschinelli
 
+## AI
+
+[Teachable Machine](https://teachablemachine.withgoogle.com/) - Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone.
