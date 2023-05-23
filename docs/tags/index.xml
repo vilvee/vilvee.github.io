@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ByteMe: Veronika&#39;s Coding After Dark</title>
+    <link>http://vilvee.github.io/tags/</link>
+    <description>Recent content in Tags on ByteMe: Veronika&#39;s Coding After Dark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://vilvee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTF</title>
+      <link>http://vilvee.github.io/tags/ctf/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://vilvee.github.io/tags/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://vilvee.github.io/tags/cybersecurity/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://vilvee.github.io/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NorthSec</title>
+      <link>http://vilvee.github.io/tags/northsec/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://vilvee.github.io/tags/northsec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
