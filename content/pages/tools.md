@@ -7,7 +7,7 @@ description: "ToolBox"
 
 A place to bookmark tools and resources.
 
-## [CTF ToolBox](ctftools)
+## [CTF ToolBox]({{< ref "ctftools" >}})
 
-## [Dev ToolBox](devtools)
+## [Dev ToolBox]({{< ref "devtools" >}})
 
