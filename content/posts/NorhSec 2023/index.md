@@ -72,7 +72,7 @@ I might have had a lot to say about the food, but I am very grateful that the or
 
 ## The Results : Beyond the Byte
 
-Our performance exceeded our expectations. We secured the 57th position out of 76 teams, a commendable achievement for our first CTF. This experience has fueled our determination to return next year andaim for an even better ranking!
+Our performance exceeded our expectations. We secured the 57th position out of 76 teams, a commendable achievement for our first CTF. This experience has fueled our determination to return next year and aim for an even better ranking!
 
 In conclusion, NorthSec 2023 was an unforgettable journey into the world of cybersecurity. It was a platform that allowed us to learn, compete, and connect with like-minded individuals. Despite the challenges and sleep deprivation, the sense of accomplishment and camaraderie we experienced was unparalleled. We look forward to participating in NorthSec 2024 and further honing our skills in the field of cybersecurity.
 
