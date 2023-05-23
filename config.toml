@@ -1,4 +1,4 @@
-baseURL = 'http://vilvee.github.io'
+baseURL = 'https://vilvee.github.io'
 languageCode = 'en-us'
 title = "ByteMe: Veronika's Coding After Dark"
 theme = "hugo-blog-awesome"
