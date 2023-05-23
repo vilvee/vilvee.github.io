@@ -1,7 +1,7 @@
 ---
 title: About
 description: "Veronika's Resume"
-date: '2023'
+date: '2023-05-22'
 ---
 
 ## Veronika Vilenski | [Email](mailto:v.vilenski@gmail.com) | [LinkedIn](https://www.linkedin.com/in/veronikavilenski)

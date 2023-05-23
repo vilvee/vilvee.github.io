@@ -1,6 +1,6 @@
 ---
 title: "NorthSec 2023: A Novice's Journey into Cybersecurity"
-date: 2023-02-01
+date: 2023-05-22
 author: Veronika V.
 description: A first-hand account of my experience at NorthSec 2023, Canada's premier cybersecurity event.
 tags:
