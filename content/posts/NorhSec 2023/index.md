@@ -54,6 +54,17 @@ The camaraderie and helpfulness of the attendees were the highlights of the even
 
 ![NorthSec](bigroom.jpg)
 
+
+## The Battle Against Sleep : Who Needs Sleep Anyway?
+
+The CTF schedule was grueling, running from Friday evening until 3 am, resuming at 8 am on Saturday until 3 am, and then again from 8 am until 3 pm on Sunday. The struggle against sleep was a real challenge. Even though we never stayed until the official closing time of 3 am, most of us were still burning the midnight oil until around 2 am. Some of the more audacious among us even managed to show up bright and early at 8 am the following day.
+
+As a team, we found ourselves jokingly questioning the necessity of sleep. After all, who needs sleep when you're caught up in the thrill of a cybersecurity contest?
+
+When the event concluded on Sunday and I arrived home around 7 pm, the sensible thing would have been to head straight to bed. But the adrenaline from the event hadn't worn off yet. So, what did I do instead? I had dinner and rewatched this year's NSEC Hacker Jeopardy on YouTube!
+
+Was I exhausted? Absolutely. But would I do it all over again? Without a doubt. The experience, the learning, and the camaraderie far outweighed the temporary sleep deprivation. The memories we made at NorthSec 2023 will fuel us until we meet again at the next CTF.
+
 ## The Food : A Rollercoaster of Flavors
 
 The food experience was a mixed bag.
