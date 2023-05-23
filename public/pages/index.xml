@@ -6,7 +6,18 @@
     <description>Recent content in Pages on ByteMe: Veronika&#39;s Coding After Dark</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vilvee.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vilvee.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dev ToolBox</title>
+      <link>https://vilvee.github.io/pages/devtools/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vilvee.github.io/pages/devtools/</guid>
+      <description>Dev ToolBox General - Dot Net Perls has example pages for many languages, with explanations and code side by side (for easy understanding).
+- W3Schools is a web developers site, with tutorials and references on web development languages such as HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, C++, C#, React, Node.js, XML, W3.CSS, and Bootstrap, covering most aspects of web programming.
+CSharp - Notes for 420-1P6 by Mauricio Buschinelli</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://vilvee.github.io/pages/about/</link>
@@ -17,12 +28,22 @@
     </item>
     
     <item>
-      <title>ToolBox</title>
-      <link>https://vilvee.github.io/pages/tools/</link>
+      <title>CTF ToolBox</title>
+      <link>https://vilvee.github.io/pages/ctftools/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vilvee.github.io/pages/tools/</guid>
+      <guid>https://vilvee.github.io/pages/ctftools/</guid>
       <description>ToolBox Software Autopsy - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera&amp;rsquo;s memory card. Burp Suite - Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. Ghidra - Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.</description>
+    </item>
+    
+    <item>
+      <title>ToolBox</title>
+      <link>https://vilvee.github.io/pages/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vilvee.github.io/pages/tools/</guid>
+      <description>ToolBoxes A place to bookmark tools and resources.
+CTF ToolBox Dev ToolBox </description>
     </item>
     
   </channel>

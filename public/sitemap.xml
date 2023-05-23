@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vilvee.github.io/pages/devtools/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://vilvee.github.io/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vilvee.github.io/pages/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vilvee.github.io/posts/</loc>
@@ -14,6 +20,9 @@
     <loc>https://vilvee.github.io/tags/ctf/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://vilvee.github.io/pages/ctftools/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://vilvee.github.io/tags/cybersecurity/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,15 +32,11 @@
     <loc>https://vilvee.github.io/posts/norhsec-2023/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vilvee.github.io/pages/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vilvee.github.io/tags/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vilvee.github.io/pages/tools/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vilvee.github.io/categories/</loc>
+  </url><url>
+    <loc>https://vilvee.github.io/pages/tools/</loc>
   </url>
 </urlset>

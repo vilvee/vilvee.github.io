@@ -8,12 +8,32 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vilvee.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dev ToolBox</title>
+      <link>https://vilvee.github.io/pages/devtools/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vilvee.github.io/pages/devtools/</guid>
+      <description>Dev ToolBox General - Dot Net Perls has example pages for many languages, with explanations and code side by side (for easy understanding).
+- W3Schools is a web developers site, with tutorials and references on web development languages such as HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, C++, C#, React, Node.js, XML, W3.CSS, and Bootstrap, covering most aspects of web programming.
+CSharp - Notes for 420-1P6 by Mauricio Buschinelli</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://vilvee.github.io/pages/about/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://vilvee.github.io/pages/about/</guid>
       <description>Veronika Vilenski | Email | LinkedIn Summary Currently studying Computer Science Technology at John Abbott College, I am an enthusiastic student with a strong foundation in various technical skills including C#, .NET Core, .NET Framework, HTML, and CSS. My interests vary widely, from coding to cybersecurity, which led me to participate as a team manager in the Northsec 2023 CTF competition, where I honed my problem-solving skills and gained hands-on experience.</description>
+    </item>
+    
+    <item>
+      <title>CTF ToolBox</title>
+      <link>https://vilvee.github.io/pages/ctftools/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://vilvee.github.io/pages/ctftools/</guid>
+      <description>ToolBox Software Autopsy - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera&amp;rsquo;s memory card. Burp Suite - Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. Ghidra - Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.</description>
     </item>
     
     <item>
@@ -30,10 +50,11 @@ As a team of students with minimal preparation, we plunged headfirst into our fi
     <item>
       <title>ToolBox</title>
       <link>https://vilvee.github.io/pages/tools/</link>
-      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vilvee.github.io/pages/tools/</guid>
-      <description>ToolBox Software Autopsy - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera&amp;rsquo;s memory card. Burp Suite - Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. Ghidra - Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.</description>
+      <description>ToolBoxes A place to bookmark tools and resources.
+CTF ToolBox Dev ToolBox </description>
     </item>
     
   </channel>
