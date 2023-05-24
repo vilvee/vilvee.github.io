@@ -22,13 +22,14 @@ Okay, where do I start?!
 As a team of students with minimal preparation, we plunged headfirst into our first CTF at NorthSec 2023. The excitement was palpable as we stepped into the beautiful venue of Marche Bonsecours, located in the historic old port of Montreal. The professionalism of the event was evident from the moment we were greeted by a friendly volunteer who handed us our badges and commemorative 10th anniversary t-shirts.
 
 ![MarcheBonsecours](marcheb.jpg)
+<em>photo provided by [Jeffrey Bringolf](https://www.linkedin.com/in/jeffrey-bringolf-474b54205/)</em>
 
 Being the 10th anniversary of Nsec, the old shirts and badges decorated the space between the big and the small room, a testament to the rich history of NorthSec.
 
 **PLEASE ORGANIZERS, MAKE THE SHIRTS AND BADGES AVAILABLE FOR PURCHASE!**
 
 ![Shirts](oldshirts.jpg)
-
+<em>photo provided by [Jeffrey Bringolf](https://www.linkedin.com/in/jeffrey-bringolf-474b54205/)</em>
 
 ## The Badge: A Work of TechArt
 
@@ -53,7 +54,7 @@ I honestly cannot describe the exhilaration of typing in and submitting a flag. 
 The camaraderie and helpfulness of the attendees were the highlights of the event. Despite my initial apprehensions, I was welcomed into a community that was supportive and inclusive. The event served as a reminder that I was more than just a student; I was part of a vibrant and dynamic community.
 
 ![NorthSec](bigroom.jpg)
-
+<em>photo provided by [Jeffrey Bringolf](https://www.linkedin.com/in/jeffrey-bringolf-474b54205/)</em>
 
 ## The Battle Against Sleep : Who Needs Sleep Anyway?
 
