@@ -3,6 +3,7 @@
 - type: github
   icon: "fab fa-github"
 
+<<<<<<< HEAD
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/veronikavilenski/'                  # Fill with your Linkedin homepage
@@ -12,6 +13,18 @@
   noblank: true
 
 
+=======
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
+>>>>>>> v7.2.0
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -26,8 +39,22 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 #
+<<<<<<< HEAD
 #- type: twitter
  # icon: "fa-brands fa-x-twitter"
 #- type: rss
  # icon: "fas fa-rss"
  # noblank: true
+=======
+# - type: bluesky
+#   icon: 'fa-brands fa-bluesky'
+#   url: ''                   # Fill with your Bluesky profile link
+#
+# - type: reddit
+#   icon: 'fa-brands fa-reddit'
+#   url: ''                   # Fill with your Reddit profile link
+#
+# - type: threads
+#   icon: 'fa-brands fa-threads'
+#   url: ''                   # Fill with your Threads profile link
+>>>>>>> v7.2.0

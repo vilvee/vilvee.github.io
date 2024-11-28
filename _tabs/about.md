@@ -1,10 +1,15 @@
 ---
+<<<<<<< HEAD
 layout: post
 toc: true
+=======
+# the default layout is 'page'
+>>>>>>> v7.2.0
 icon: fas fa-info-circle
 order: 4
 ---
 
+<<<<<<< HEAD
 
 ## Veronika Vilenski | [Email](mailto:v.vilenski@gmail.com) | [LinkedIn](https://www.linkedin.com/in/veronikavilenski)
 
@@ -77,3 +82,7 @@ June 2023
 Served as a team manager in a renowned cybersecurity competition, honing my problem-solving skills and gaining hands-on experience in various areas of cybersecurity.
 - **SALTISE 2023**
 As one of the few teacher's assiatants, I helped prepare the hardware componenets and load them with code, help set up at the conference, and assist conference participants during the hands-on part of the event.
+=======
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
+>>>>>>> v7.2.0
