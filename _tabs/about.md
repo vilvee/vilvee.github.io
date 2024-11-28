@@ -1,20 +1,15 @@
 ---
-<<<<<<< HEAD
 layout: post
 toc: true
-=======
-# the default layout is 'page'
->>>>>>> v7.2.0
 icon: fas fa-info-circle
 order: 4
 ---
 
-<<<<<<< HEAD
 
 ## Veronika Vilenski | [Email](mailto:v.vilenski@gmail.com) | [LinkedIn](https://www.linkedin.com/in/veronikavilenski)
 
 ### Summary
-I am an enthusiastic student in Computer Science at John Abbott College with a strong foundation in various technical skills including C#, .NET Core, .NET Framework, HTML, and CSS. My interests vary widely, from coding to cybersecurity, which led me to participate as a team Leader in the Northsec 2023 CTF competition, where I honed my problem-solving skills and gained hands-on experience. My academic excellence has been recognized with my inclusion on the Dean's List for years 2021, 2022, and 2023. I am open to internship opportunities where I can further apply and hone my skills.
+I am an enthusiastic student in Computer Science at John Abbott College with a strong foundation in various technical skills including Python, C#, JavaScript/TypeScript, .NET Core, .NET Framework, HTML, and CSS, DB management. My interests vary widely, from coding to cybersecurity, which led me to participate as a team Leader in the Northsec 2023 CTF competition, where I honed my problem-solving skills and gained hands-on experience. My academic excellence has been recognized with my inclusion on the Dean's List for years 2021, 2022, and 2023. I am open to internship opportunities where I can further apply and hone my skills.
 
 ### Education
 **Computer Science**  
@@ -82,7 +77,3 @@ June 2023
 Served as a team manager in a renowned cybersecurity competition, honing my problem-solving skills and gaining hands-on experience in various areas of cybersecurity.
 - **SALTISE 2023**
 As one of the few teacher's assiatants, I helped prepare the hardware componenets and load them with code, help set up at the conference, and assist conference participants during the hands-on part of the event.
-=======
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
->>>>>>> v7.2.0
