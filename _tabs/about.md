@@ -17,6 +17,13 @@ John Abbott College, CEGEP
 May 2025
 
 ### Experience 
+**Software Developer**  
+Internship, Morgan Stanley  
+May 2024—August 2024   
+- Used python to automate ETL.
+- Used Snowflake database.
+- Created streams in Kafka.
+
 **Technician**  
 PIA, John Abbott College  
 July 2023—Present   
