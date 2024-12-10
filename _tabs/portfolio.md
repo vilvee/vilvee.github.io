@@ -9,22 +9,19 @@ order: 5
 
 Welcome to my project showcase! Below are some my projects that I’ve worked on.
 
-## Featured Projects
-
-### [Anima Veil](https://github.com/yourusername/project-one)
-**Description:** A demo platformer game.  
-**Key Technologies:** JavaScript, Tiled  
-**Highlights:**  
-
+## Featured Projects 
 
 ### [Citrus](https://github.com/yourusername/project-two)
 **Description:** An ecnryprion/decryption website.  
 **Key Technologies:** Flask, Pyhton, JavaScript
-**Highlights:**  
 
 
-### [Moodify](https://github.com/yourusername/project-two)
+### [Moodify](https://github.com/vilvee/Moodify)
 **Description:** A Mobile app to track mood and diary.
 **Key Technologies:** Kotlin, Android Studio  
-**Highlights:**  
+ 
+
+### [Sushi_Order](https://github.com/vilvee/All-You-Can-Eat-Sushi-Ordering-App)
+**Description:** An all you can eat sushi ordering application for restaurants.
+**Key Technologies:** C#, WPF
 
