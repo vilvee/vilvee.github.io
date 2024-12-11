@@ -45,17 +45,18 @@ June 2023
     <td><b style="font-size:15px">Technical Skills: </b></td>
  </tr>
  <tr>
-    <td><li>C#</li>
-        <li>.NET Core </li>
-        <li>.NET Framework </li>
-        <li>HTML</li>
-        <li>JavaScript</li>
-        <li>MSSQL</li>
+    <td>
+      <li>C#</li>
+      <li>Python</li>
+      <li>.NET Core </li>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
     </td>
-    <td><li>CSS</li>
-        <li>GitHub</li>
-        <li>Git</li>
-        <li>MS Visual Studio</li>
+    <td>        
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>MSSQL</li>
+      <li>Git</li>
     </td>
  </tr>
 </table>
