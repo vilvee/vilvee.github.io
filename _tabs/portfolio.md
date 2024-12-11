@@ -11,7 +11,7 @@ Welcome to my project showcase! Below are some my projects that I’ve worked on
 
 ## Featured Projects 
 
-### [Citrus](https://github.com/yourusername/project-two)
+### [Citrus](https://github.com/vilvee/citrus)
 **Description:** An ecnryprion/decryption website.  
 **Key Technologies:** Flask, Pyhton, JavaScript
 
