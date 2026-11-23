@@ -2,86 +2,102 @@
 layout: post
 toc: true
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 
 ## Veronika Vilenski | [Email](mailto:v.vilenski@gmail.com) | [LinkedIn](https://www.linkedin.com/in/veronikavilenski)
 
 ### Summary
-I am an enthusiastic student in Computer Science at John Abbott College with a strong foundation in various technical skills including Python, C#, JavaScript/TypeScript, .NET Core, .NET Framework, HTML, and CSS, DB management. My interests vary widely, from coding to cybersecurity, which led me to participate as a team Leader in the Northsec 2023 CTF competition, where I honed my problem-solving skills and gained hands-on experience. My academic excellence has been recognized with my inclusion on the Dean's List for years 2021, 2022, and 2023. I am open to internship opportunities where I can further apply and hone my skills.
+
+I'm a software developer based in the Montréal area with a DEC in Computer Science Technology from John Abbott College.
+
+Previously, I worked on Python ETL workflows and a proof of concept involving Snowflake and Kafka. I also supported onboarding for an internal data quality and reporting platform, using SQL to configure records and troubleshoot issues while working with technical and non-technical stakeholders.
+
+I'm particularly interested in Python, SQL, backend development, and data systems. I'm currently looking for opportunities in software development and data-related roles.
+
 
 ### Education
-**Computer Science**  
+**Computer Science Technology**  
 John Abbott College, CEGEP  
 May 2025
 
 ### Experience 
+
 **Software Developer**  
-Internship, Morgan Stanley  
-May 2024—August 2024   
-- Used python to automate ETL.
-- Used Snowflake database.
-- Created streams in Kafka.
+Morgan Stanley
+May–Aug 2024 and Jan–Oct 2025  |  Montréal, Quebec
+-  Developed a proof of concept with Python, Kafka, and Snowflake to explore near-real-time data ingestion instead of scheduled 
+processing.
+-  Adapted existing Python ETL scripts, API-connected workflows, and data quality checks to work with Snowflake.
+-  Investigated integration issues while working within internal software and package restrictions.
+-  Met with technical and non-technical internal clients to clarify reporting needs and data access requirements.
+-  Ran an existing onboarding procedure, inserted required records using SQL, and queried tables to investigate client and 
+dashboard setup issues.
+-  Revised technical documentation for manual client onboarding and database configuration.
+-  Contributed to React/JavaScript UI development and performed JUnit testing during a separate team assignment.
 
-**Technician**  
-PIA, John Abbott College  
-July 2023—Present   
-- Wrote an easy-to-understand Code Guide for preexisting Python code that interacts with recommender systems.
-- Revise and import the documentation from Word to GitBook.
-- Created relevant infographics.
-
-**Teacher’s Assistant**  
-PIA, SALTISE 2023  
-June 2023  
-- Worked on and optimized Arduino code before loading it into over 30 microcontrollers.
-- In a team, connected all the microcontroller hardware.
-- Set up computers and microcontrollers before the event.
-- Assisted participants with any technical issues or questions.
+**Student Technician (PIA) & Computer Science Tutor**  
+John Abbott College
+Jun 2023–Jun 2024  |  Sainte-Anne-de-Bellevue, Quebec
+-  Wrote a guide to existing Python code for a recommender-system project supported by the Pôle montréalais d’enseignement 
+supérieur en intelligence artificielle (PIA).
+-  Updated technical documentation and transferred material from Word to GitBook.
+-  Created infographics for technical guides and provided computer science tutoring
 
 ### Skills
 <table border="0">
  <tr>
-    <td><b style="font-size:15px">Technical Skills: </b></td>
+    <td><b style="font-size:15px">Programming Languages </b></td>
  </tr>
  <tr>
     <td>
+    <li>Python</li>
+      <li>SQL</li>
       <li>C#</li>
-      <li>Python</li>
-      <li>.NET Core </li>
       <li>JavaScript</li>
       <li>TypeScript</li>
     </td>
-    <td>        
+     </tr>
+    <tr> <td><b style="font-size:15px">Data & Integration </b></td>  </tr>
+     <tr>
+    <td>
+    <li>Snowflake</li>    
+      <li>ETL</li>
+      <li>Kafka</li>
+      <li>Data Quality</li>
+    </td>
+     </tr>
+    <tr> <td><b style="font-size:15px">Frameworks & UI </b></td>  </tr>
+     <tr>
+    <td>
+    <li>.NET</li>    
+      <li>ASP.NET</li>
+      <li>WPF</li>
+      <li>REACT</li>
       <li>HTML</li>
       <li>CSS</li>
-      <li>MSSQL</li>
-      <li>Git</li>
+    </td>
+ </tr>
+     <tr> <td><b style="font-size:15px">Development Tools </b></td>  </tr>
+     <tr>
+    <td>
+    <li>Git</li>    
+      <li>GitHub</li>
+      <li>Linux (CLI)</li>
     </td>
  </tr>
 </table>
 
- <table border="0">
- <tr>
-    <td><b style="font-size:15px">Soft Skills: </b></td>
- </tr>
- <tr>
-    <td><li>Organization</li>
-        <li>Communication</li>
-        <li>Multitasking</li>
-    </td>
-    <td><li>Problem Solving</li>
-        <li>Time Management</li>
-        <li>High Motivation</li>
-    </td>
- </tr>
-</table>
 
+ 
 ### Honors & Awards
-- Dean's List, 2021-2023
+- Dean's List, 2022-2025
 
-### Participation & Volunteering
-- **Northsec 2023 CTF Competition**  
-Served as a team manager in a renowned cybersecurity competition, honing my problem-solving skills and gaining hands-on experience in various areas of cybersecurity.
+### Activities & Volunteering
+- **Northsec 2023 & 2024 CTF Competition**  
+Participated in NorthSec's Capture the Flag cybersecurity competition as a team manager for John Abbott College.
+
 - **SALTISE 2023**
-As one of the few teacher's assiatants, I helped prepare the hardware componenets and load them with code, help set up at the conference, and assist conference participants during the hands-on part of the event.
+- Prepared and configured Arduino microcontrollers for conference workshops.
+- Assisted with hardware setup and provided technical support to participants during hands-on activities.

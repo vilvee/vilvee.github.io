@@ -16,13 +16,14 @@ timezone: America/Montreal
 
 title: Veronika V. # the main title
 
-tagline: # it will display as the sub-title
+tagline: Software Development & Data # it will display as the sub-title
 
 description:
+  My Portfolio, a software developer with experience in Python, SQL, ETL, and data systems.
   # used by seo meta and the atom feed # A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://vilvee.github.io/"
+url: "https://vilvee.github.io"
 
 github:
   username: vilvee # change to your github username
@@ -38,7 +39,7 @@ social:
     - https://github.com/vilvee # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/veronikavilenski/
 
 google_site_verification: # fill in to your verification string
 
