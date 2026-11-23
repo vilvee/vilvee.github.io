@@ -4,8 +4,28 @@ layout: default
 
 {% include lang.html %}
 
+<style>
+  .portfolio-hero {
+    padding: 1.5rem !important;
+  }
+
+  .portfolio-project-card {
+    background-color: var(--card-bg) !important;
+    color: var(--text-color) !important;
+    border-color: var(--main-border-color) !important;
+  }
+
+  .portfolio-project-card .card-body {
+    padding: 1.25rem !important;
+  }
+
+  .portfolio-project-card .card-title {
+    color: var(--heading-color);
+  }
+</style>
+
 <!-- Portfolio introduction -->
-<section class="mb-5 p-4 border rounded-3">
+<section class="mb-5 p-4 border rounded-3 portfolio-hero">
   <p class="text-muted mb-2">SOFTWARE DEVELOPMENT & DATA</p>
 
   <h1 class="mb-3">Hi, I'm Veronika!</h1>
@@ -39,7 +59,7 @@ layout: default
   <div class="row row-cols-1 row-cols-md-2 g-3">
     <!-- Citrus -->
     <div class="col">
-      <div class="card h-100">
+      <div class="card h-100 portfolio-project-card">
         <div class="card-body d-flex flex-column">
           <h3 class="card-title h5">Citrus</h3>
 
@@ -62,7 +82,7 @@ layout: default
 
     <!-- Sushi Ordering -->
     <div class="col">
-      <div class="card h-100">
+      <div class="card h-100 portfolio-project-card">
         <div class="card-body d-flex flex-column">
           <h3 class="card-title h5">Sushi Ordering App</h3>
 
